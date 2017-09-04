@@ -1,0 +1,6 @@
+- Bundling and minifying libraries and stylesheets.
+- Refreshing your browser when you save a file.
+- Quickly running unit tests
+- Running code analysis
+- Less/Sass to CSS compilation
+- Copying modified files to an output directory
